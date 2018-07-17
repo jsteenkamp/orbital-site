@@ -1,6 +1,4 @@
-import React from 'react';
 import sys from 'system-components';
-import { themeGet } from 'styled-system';
 
 const Headings = sys(
   {
@@ -10,11 +8,8 @@ const Headings = sys(
     lineHeight: 1,
     letterSpacing: 0.25,
     m: 0,
+    color: 'text',
   },
-  props => ({
-    color: `${themeGet('colors.text')(props)}`,
-  }),
-  'color',
   'fontSize',
   'fontWeight',
   'letterSpacing',

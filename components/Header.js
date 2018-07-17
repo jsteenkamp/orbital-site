@@ -8,7 +8,7 @@ const Box = sys({
 const H1 = sys({
   is: 'h1',
   fontSize: [8, 9],
-  mt: 3,
+  mt: 0,
   mb: 3,
 });
 
