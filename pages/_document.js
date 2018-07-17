@@ -23,6 +23,7 @@ export default class MyDocument extends Document {
       <html>
         <Head>
           <title>Orbital</title>
+          <link rel="shortcut icon" href="/static/favicon.ico"/>
           {this.props.styleTags}
         </Head>
         <body>
