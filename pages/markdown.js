@@ -1,5 +1,11 @@
-import MD from '../content/markdown.md';
+import Layout from '../components/Layout';
+import Components from '../components/markdown';
+import Markdown from '../content/markdown.md';
 
-export const Markdown = () => <MD />;
+export const TestMarkdown = () => (
+  <Layout>
+    <Markdown components={Components} />
+  </Layout>
+);
 
-export default Markdown;
+export default TestMarkdown;

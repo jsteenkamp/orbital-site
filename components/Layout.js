@@ -2,9 +2,9 @@ import sys from 'system-components';
 import Header from './Header';
 
 const Container = sys({
-  m: [2, 3],
+  m: [3, 5],
   p: 0,
-  fontSize: 4
+  fontSize: 4,
 });
 
 const Layout = props => (

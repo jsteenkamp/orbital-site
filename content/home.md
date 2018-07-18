@@ -1,9 +1,9 @@
 ## Development
 
 * [Simplicity is Key](https://hvops.com/articles/simplicity-is-key/)
-* [Getting Real [pdf]](./static/getting.real.pdf)
+* [Getting Real [PDF]](./static/getting.real.pdf)
 * [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Why "Agile" and especially Scrum are Terrible [pdf]](./static/agile.scrum.terrible.pdf)
+* [Why "Agile" and especially Scrum are Terrible [PDF]](./static/agile.scrum.terrible.pdf)
 
 
 ## Design

@@ -7,7 +7,6 @@ const Headings = sys(
     fontWeight: 0,
     lineHeight: 1,
     letterSpacing: 0.25,
-    m: 0,
     color: 'text',
   },
   'fontSize',
@@ -22,7 +21,7 @@ Headings.displayName = 'Heading';
 export const H1 = props => (
   <Headings
     is="h1"
-    fontSize={7}
+    fontSize={[6, 7]}
     fontWeight={0}
     letterSpacing={-1.5}
     {...props}
@@ -40,7 +39,7 @@ export const H2 = props => (
 );
 
 export const H3 = props => (
-  <Headings is="h3" fontSize={6} fontWeight={1} letterSpacing={0} {...props} />
+  <Headings is="h3" fontSize={[5, 6]} fontWeight={1} letterSpacing={0} {...props} />
 );
 
 export const H4 = props => (

@@ -6,7 +6,8 @@ const Box = sys({
   display: 'flex',
   flexDirection: 'row',
   justifyContent: 'space-between',
-  alignItems: 'center',
+  alignItems: 'baseline',
+  fontSize: 4,
 });
 
 const H1 = sys({
@@ -19,7 +20,6 @@ const H1 = sys({
 const A = sys({
   is: 'a',
   target: '_blank',
-  fontSize: 4,
 });
 
 const Header = () => (
