@@ -15,10 +15,10 @@ const Box = sys(
   })
 );
 
-const Test = props => (
+const TestBox = props => (
   <Box>
     <p>Test Component</p>
   </Box>
 );
 
-export default Test;
+export default TestBox;

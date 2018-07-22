@@ -2,6 +2,8 @@ import App, { Container } from 'next/app';
 import { ThemeProvider } from 'styled-components';
 import { Provider } from 'unstated';
 import theme from '../theme';
+import Layout from '../components/Layout';
+import Components from '../components/markdown';
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
@@ -18,7 +20,9 @@ class MyApp extends App {
       <Container>
         <ThemeProvider theme={theme}>
           <Provider>
-            <Component {...pageProps} />
+            <Layout>
+              <Component {...pageProps} components={Components} />
+            </Layout>
           </Provider>
         </ThemeProvider>
       </Container>
