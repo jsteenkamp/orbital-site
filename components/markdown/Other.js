@@ -14,3 +14,8 @@ export const P = sys({
   is: 'p',
   color: 'text',
 });
+
+export const Img = sys({
+  is: 'img',
+  width: '100%',
+});

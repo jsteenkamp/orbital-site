@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 * [Simplicity is Key](https://hvops.com/articles/simplicity-is-key/)
 * [Getting Real [PDF]](./static/getting.real.pdf)
+* [Reconsider](https://m.signalvnoise.com/reconsider-41adf356857f)
 * [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [Why "Agile" and especially Scrum are Terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 * <Link href='scrum-fire'><a>Why Scrum Should Basically Just Die In A Fire</a></Link>
@@ -40,11 +41,13 @@ import Link from 'next/link';
 
 ## Machine Learning
 
+* [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [What Machine Learning means for Software Development](https://www.oreilly.com/ideas/what-machine-learning-means-for-software-development)
+* [120 Machine Learning Business Ideas](https://medium.com/mcgill-artificial-intelligence-review/120-machine-learning-business-ideas-from-the-new-mckinsey-report-b81b239f336)
 * [Visual Introduction to Machine Learning (1)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) [(2)](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [Machine Learning is Fun (1-6)](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [11 JavaScript Machine Learning Libraries](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 * [Machine Learning in JavaScript (1)](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) [(2)](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483)
 * [Complete Machine Learning Walkthrough in Python (1)](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426) [(2)](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2) [(3)](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 * [Avoiding Complexity of Machine Learning Systems](https://engineering.quora.com/Avoiding-Complexity-of-Machine-Learning-Systems)
-* [What Machine Learning means for Software Development](https://www.oreilly.com/ideas/what-machine-learning-means-for-software-development)
-* [120 Machine Learning Business Ideas](https://medium.com/mcgill-artificial-intelligence-review/120-machine-learning-business-ideas-from-the-new-mckinsey-report-b81b239f336)
+

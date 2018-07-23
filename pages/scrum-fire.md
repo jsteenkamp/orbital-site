@@ -4,7 +4,7 @@ Published Wednesday, September 17, 2014 by [Giles Bowkett](http://gilesbowkett.b
 
 *Conversations with Panda Strike CEO Dan Yoder inspired this blog post.*  
 
-Scrum, the Agile methodology allegedly favored by Google and Spotify, is a mess.  
+Scrum, the [Agile](http://agilemanifesto.org/) methodology allegedly favored by Google and Spotify, is a mess.  
 
 ### Story Points
 
@@ -29,7 +29,7 @@ In practice, this "soap box" usually consists of nothing more than questions lik
 
 In fairness to everybody who's tried this process and seen it fail, how could it not devolve? A non-technical participant has, at any point, the option to pull out an egg timer and tell technical participants "thirty seconds or shut the fuck up." This is not a process designed to facilitate technical conversation; it's so clearly designed to limit such conversation that it almost seems to assume that any technical conversation is inherently dysfunctional.  
 
-It's ironic to see conversation-limiting devices built into Agile development methodologies, when one of the core principles of the [Agile Manifesto](http://agilemanifesto.org/) is the idea that "the most efficient and effective method of conveying information to and within a development team is face-to-face conversation," but I'll get to that a little later on.  
+It's ironic to see conversation-limiting devices built into Agile development methodologies, when one of the core principles of the [Agile Manifesto](http://agilemanifesto.org/) is the idea that ["the most efficient and effective method of conveying information to and within a development team is face-to-face conversation,"](http://agilemanifesto.org/principles.html) but I'll get to that a little later on.  
 
 For now, I want to point out that Planning Poker isn't the only aspect of Scrum which, in my experience, seems to consistently devolve into something less useful. Another core piece of Scrum is the standup meeting.  
 
@@ -59,7 +59,7 @@ Scrum's an Agile development methodology, and one of its major goals is sustaina
 
 ### Velocity
 
-Another core idea of the Agile Manifesto, the allegedly defining document for Agile development methodologies: "working software is the primary measure of progress." Scrum disregards this idea in favor of a measure of progress called "velocity." Basically, velocity is the number of "story points" successfully accomplished divided by the amount of time it took to accomplish them.  
+Another core idea of the Agile Manifesto, the allegedly defining document for Agile development methodologies: ["working software is the primary measure of progress."](http://agilemanifesto.org/principles.html) Scrum disregards this idea in favor of a measure of progress called "velocity." Basically, velocity is the number of "story points" successfully accomplished divided by the amount of time it took to accomplish them.  
 
 As I mentioned at the top of the post, a lot of this thinking comes from conversations with my new boss, Panda Strike CEO Dan Yoder. Dan told me he's literally been in meetings where non-technical management said things like, "well, you got through [some number] story points last week, and you only got through [some smaller number] this week, and coincidentally, I noticed that [some developer's name] left early yesterday, so it looks pretty easy who to blame."  
 
@@ -73,9 +73,9 @@ But, just to be clear, one of velocity's many flaws is that different teams are 
 
 ### Working Software
 
-Joel Spolsky has an old but interesting blog post about a per-individual, velocity-like metric based on actually using math like a person who understands it, not a person who regards it as some kind of incomprehensible yet infallible magic. However, if there's anything worth keeping in the Agile Manifesto, it's the idea that working software is the primary measure of progress. Indeed, that's the huge, hilarious irony at the center of this bizarre system of faux accountability: with the exception of a few Heisenbugs, engineering work is already inherently more accountable than almost any other kind of work. If you ask for a feature, your team will either deliver it, or fail to deliver it, and you will know fairly rapidly.  
+Joel Spolsky has an old but interesting [blog post](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) about a per-individual, velocity-like metric based on actually using math like a person who understands it, not a person who regards it as some kind of incomprehensible yet infallible magic. However, if there's anything worth keeping in the Agile Manifesto, it's the idea that working software is the primary measure of progress. Indeed, that's the huge, hilarious irony at the center of this bizarre system of faux accountability: with the exception of a few Heisenbugs, engineering work is already inherently more accountable than almost any other kind of work. If you ask for a feature, your team will either deliver it, or fail to deliver it, and you will know fairly rapidly.  
 
-If you're tracking velocity, your best-case scenario will be that management realizes it means nothing, even though they're tracking it anyway, which means spending money and time on it. This useless expense is what Andy Hunt and Dave Thomas termed a broken window in their classic book The Pragmatic Programmer - a sign of careless indifference, which encourages more of the same. That's not what you want to have in your workplace.  
+If you're tracking velocity, your best-case scenario will be that management realizes it means nothing, even though they're tracking it anyway, which means spending money and time on it. This useless expense is what Andy Hunt and Dave Thomas termed a broken window in their classic book [The Pragmatic Programmer](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a sign of careless indifference, which encourages more of the same. That's not what you want to have in your workplace.  
 
 Sacrificing "working software as a measure of progress" to meaningless numbers that your MBAs can track for no good reason is a pretty serious flaw in Scrum. It implies that Scrum's loyalty is not to the Agile Manifesto, nor to working software, nor high-quality software, nor even the success of the overall team or organization. Scrum's loyalty, at least as it pertains to this design decision, is to MBAs who want to point at numbers on a chart, whether those numbers mean anything or not.  
 
@@ -91,13 +91,13 @@ In other words, in its best-case scenario, Scrum's a dog-and-pony show. But that
 
 And one of the most interesting things about Scrum is that it tries to enhance the accountability of a field of work where both failure and success are obvious to the naked eye - yet I've never encountered any similarly elaborate system of rituals whose major purpose is to enhance the accountability of fields which have actual accountability problems.  
 
+![Welcome to Marketing](/static/dilbert-marketing.gif)
+
 Although marketing is becoming a very data-driven field, and although this sea change began long before the Web existed at all - Dan Kennedy's been writing about data-driven marketing since at least the 1980s - it's still a fact that many marketers do totally unaccountable work that depends entirely on public perception, mood, and a variety of other factors that are inherently impossible to measure. The oldest joke in marketing: "only half my advertising works, but I don't know which half."  
 
 And you never will.  
 
-
 YouTube banner ads now trying to sell me a Mercedes while I’m in Poland for a couple of weeks. But will it fit in the overhead bin?
-
 
 YouTube ads have tried to sell me a service to erase the criminal record I don't have. They've reminded me to use condoms during the gay sex that I don't have either. They've also tried to get me to buy American trucks and country music, neither of which will ever happen. No disrespect to the gay ex-convicts out there who do like American trucks and country music, assuming for the sake of argument that this demographic even exists, it's just not my style. Similarly, Facebook's "targeted" ads usually come from politicians I dislike, and Google's state-of-the-art, futuristic, probablistic, "best-of-breed" ads are worse. The only time they try to sell me anything I even remotely want is when I've researched something expensive but decided not to buy it yet. Then the ad follows me around every web site I visit for the next month.  
 
@@ -107,7 +107,7 @@ Anyway, Scrum gives you demeaning rituals to dumb down your work so that people 
 
 Why?  
 
-I don't think highly of Scrum, but the problem here goes deeper. The Agile Manifesto is flawed too. Consider this core principle of Agile development: "business people and developers must work together."  
+I don't think highly of Scrum, but the problem here goes deeper. The Agile Manifesto is flawed too. Consider this core principle of Agile development: ["business people and developers must work together."](http://agilemanifesto.org/principles.html)  
 
 Why are we supposed to think developers are not business people?  
 
@@ -127,9 +127,9 @@ This CTO who had told me nothing then said to me, "OK, dazzle me." As you can im
 
 Anway, the whole point of this is simple: there's absolutely no reason to assume that a developer is not a business person. It's a ridiculous assumption, and the world is full of incredibly successful counterexamples.  
 
-The Agile Manifesto might also be to blame for the Scrum standup. It states that "the most efficient and effective method of conveying information to and within a development team is face-to-face conversation." In fairness to the manifesto's authors, it was written in 2001, and at that time git log did not yet exist. However, in light of today's toolset for distributed collaboration, it's another completely implausible assertion, and even back in 2001 you had to kind of pretend you'd never heard of Linux if you really wanted it to make sense.  
+The Agile Manifesto might also be to blame for the Scrum standup. It states that ["the most efficient and effective method of conveying information to and within a development team is face-to-face conversation."](http://agilemanifesto.org/principles.html) In fairness to the manifesto's authors, it was written in 2001, and at that time git log did not yet exist. However, in light of today's toolset for distributed collaboration, it's another completely implausible assertion, and even back in 2001 you had to kind of pretend you'd never heard of Linux if you really wanted it to make sense.  
 
-Well-written text very often trumps face-to-face communication. You can refer to well-written text later, instead of relying on your memory. You can't produce well-written text unless you think carefully. Also, technically speaking, you can literally never produce good code in the first place unless you produce well-written text. There are several great presentations from GitHub on the value of asynchronous communication, and they're basically required viewing for anybody who wants to work as a programmer, or with programmers.  
+Well-written text very often trumps face-to-face communication. You can refer to well-written text later, instead of relying on your memory. You can't produce well-written text unless you think carefully. Also, technically speaking, you can literally never produce good code in the first place unless you produce well-written text. There are [several great presentations from GitHub](https://zachholman.com/posts/how-github-works/) on the value of asynchronous communication, and they're basically required viewing for anybody who wants to work as a programmer, or with programmers.  
 
 In fact, GitHub itself was built without face-to-face communication. Basecamp was built without face-to-face communication as well. I'm not saying these people never met each other, but most of the work was done remote. Industrial designer Marc Newson works remote for Apple, so his work on the Apple Watch may also have happened without face-to-face communication. And face-to-face communication plays a minimal role in the majority of open source projects, which usually outperform commercial projects in terms of software quality.  
 

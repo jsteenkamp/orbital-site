@@ -25,7 +25,7 @@ const A = sys({
 const Header = () => (
   <Box>
     <div><H1>Orbital</H1></div>
-    <div><A href="https://twitter.com/johanstn">@johanst</A></div>
+    <div><A href="https://twitter.com/johanstn">@johanstn</A></div>
   </Box>
 );
 
