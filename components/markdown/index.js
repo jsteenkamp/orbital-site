@@ -1,6 +1,6 @@
 import { H1, H2, H3, H4, H5, H6 } from './Headings';
 import { Code, InlineCode, Pre } from './Code';
-import { A, UL, P, Img } from './Other';
+import { A, UL, LI, P, Img, Blockquote } from './Other';
 
 export const components = {
   h1: H1,
@@ -13,9 +13,11 @@ export const components = {
   code: Code,
   pre: Pre,
   ul: UL,
+  li: LI,
   a: A,
   p: P,
   img: Img,
+  blockquote: Blockquote,
 };
 
 export default components;

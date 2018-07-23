@@ -1,6 +1,8 @@
 # Why Scrum Should Basically Just Die In A Fire
 
-Published Wednesday, September 17, 2014 by [Giles Bowkett](http://gilesbowkett.blogspot.com/) and since removed - [Original Article [PDF]](/static/giles.bowkett.why.scrum.should.basically.just.die.in.a.fire.pdf)
+Originally published September 17, 2014 by [Giles Bowkett](http://gilesbowkett.blogspot.com/) and since removed.
+ 
+ [Original Article [PDF]](/static/giles.bowkett.why.scrum.should.basically.just.die.in.a.fire.pdf)
 
 *Conversations with Panda Strike CEO Dan Yoder inspired this blog post.*  
 
@@ -12,7 +14,7 @@ Consider story points. If you're not familiar with Scrum, here's how they work: 
 
 So, for example, a project manager might say "integrating our login system with OpenAuth and Bitcoin," and you might put up the number 20, because it's the maximum allowable value.  
 
-Wikipedia describes the goal of this game:  
+[Wikipedia](https://en.wikipedia.org/wiki/Planning_poker) describes the goal of this game:  
 
 *The reason to use Planning Poker is to avoid the influence of the other participants. If a number is spoken, it can sound like a suggestion and influence the other participants' sizing. Planning Poker should force people to think independently and propose their numbers simultaneously. This is accomplished by requiring that all participants show their card at the same time.*  
 
@@ -85,7 +87,7 @@ I've met very nice MBAs, and I hope everyone out there with an MBA gets to have 
 
 The only situation I can think of where a methodology like Scrum could have genuine usefulness is on a rescue engagement, where you're called in as a consultant to save a failing project. In a situation like this, you can track velocity on a team basis to show your CEO client that development's speeding up. Meanwhile, you work on the real question, which is who to fire, because that's what nearly every rescue project comes down to.  
 
-### Agile is about having the right People
+### Agile is about having the Right People
 
 In other words, in its best-case scenario, Scrum's a dog-and-pony show. But that best-case scenario is rare. In the much more common case, Scrum covers up the inability to recruit (or even recognize) engineering talent, which is currently one of the most valuable things in the world, with a process for managing engineers as if they were cogs in a machine, all of equal value.  
 

@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+> Exploring, experimenting, learning: this is the way we’re supposed to live and work - [Dan Cable](https://hbr.org/2018/03/why-people-lose-motivation-and-what-managers-can-do-to-help)
+
 ## Development
 
 * [Simplicity is Key](https://hvops.com/articles/simplicity-is-key/)

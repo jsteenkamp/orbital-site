@@ -3,11 +3,10 @@ import { injectGlobal, ServerStyleSheet } from 'styled-components';
 
 // CSS reset
 injectGlobal`
-  body { max-width:839px; margin:auto; font-family:sans-serif; }
-  h1, h2, h3, h4, h5, h6 {margin:0; padding:0; font-family:sans-serif;}
-  * { box-sizing:border-box; }
-  a {text-decoration:none;}
-  a:hover {text-decoration:underline;}
+  body {max-width:839px; margin:auto; font-family:"avenir next", avenir, sans-serif;}
+  h1, h2, h3, h4, h5, h6 {margin:0; padding:0; font-family:"avenir next", avenir, sans-serif;}
+  * {box-sizing:border-box;}
+  a {color: #0151ba; text-decoration:none; border-bottom: 3px solid #7ebff9;}
 `;
 
 export default class MyDocument extends Document {

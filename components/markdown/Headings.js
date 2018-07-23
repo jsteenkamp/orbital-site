@@ -34,12 +34,20 @@ export const H2 = props => (
     fontSize={[5, 6]}
     fontWeight={0}
     letterSpacing={-0.5}
+    mt={'1em'}
     {...props}
   />
 );
 
 export const H3 = props => (
-  <Headings is="h3" fontSize={[5, 6]} fontWeight={1} letterSpacing={0} {...props} />
+  <Headings
+    is="h3"
+    fontSize={[5, 6]}
+    fontWeight={1}
+    letterSpacing={0}
+    mt={'1em'}
+    {...props}
+  />
 );
 
 export const H4 = props => (
