@@ -29,8 +29,6 @@ export const Img = sys({
 export const Blockquote = sys({
   is: 'blockquote',
   m: 0,
-  p: 2,
-  borderLeft: '7px solid #ccc',
   fontSize: '1.25em',
 }, props => ({
   'font-style': 'italic',

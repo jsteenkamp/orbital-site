@@ -1,0 +1,1 @@
+> Creativity, Impact, and Control define Great Work
