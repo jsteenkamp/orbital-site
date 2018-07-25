@@ -52,6 +52,7 @@ For building static and combined static and single-page applications (SPA) Next.
 ## Markdown Editors
 
 * [Best Markdown editors for Mac](https://www.sitepoint.com/the-best-markdown-editors-for-mac/) gives a good review of a number of editors.
+* [Typora](https://typora.io/) I like this one the most, simple, built in JS with Electron.
 * [Quiver](http://happenapps.com/) "Programmer's Notebook" markdown editor looks nice, of course you can use any text editor. Quiver can export various formats including [JSON](https://github.com/HappenApps/Quiver/wiki/Quiver-Data-Format) and Markdown. Only downside is it looks like Quiver is built and maintained by a single developer.
 * [LightPaper](https://getlightpaper.com/) includes Jekyll rendering so may be well suited to my requirement.
-* [Bear](http://www.bear-writer.com/) focused on note taking across macOs and iOS.
+* [Bear](http://www.bear-writer.com/) focused on note taking across macOs and iOS. Has its own cloud API.

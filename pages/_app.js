@@ -3,6 +3,7 @@ import { ThemeProvider } from 'styled-components';
 import { Provider } from 'unstated';
 import theme from '../theme';
 import Layout from '../components/Layout';
+import Components from '../components/markdown';
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
@@ -20,7 +21,7 @@ class MyApp extends App {
         <ThemeProvider theme={theme}>
           <Provider>
             <Layout>
-              <Component {...pageProps} />
+              <Component {...pageProps} components={Components} />
             </Layout>
           </Provider>
         </ThemeProvider>
