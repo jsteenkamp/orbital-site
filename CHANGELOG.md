@@ -1,3 +1,8 @@
+## ToDo
+
+* Better way to handle quotes `blockquote` and `cite`. Store quotes as json or object? 
+* Add quote to all sections, currently a single quote document with one quote is rendered via MDX on home page only.
+
 ##24/07/2018
 
 * PoC items addressed. CSS-in-JS uses `styled-components` via `styled-system` and `system-components`.
