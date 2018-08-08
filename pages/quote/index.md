@@ -1,1 +1,1 @@
-> Creativity, Impact, and Control define Great Work
+> Do the simple thing first
