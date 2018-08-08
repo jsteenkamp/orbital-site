@@ -8,6 +8,7 @@
 * [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
 * [AgileImposition](https://martinfowler.com/bliki/AgileImposition.html)
 * [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+* [Three Ways Agile has gone Astray](https://medium.com/@ard_adam/three-ways-agile-has-gone-astray-165acf3fd3c0)
 * [If not Scrum, then what? (5 laws of software development - with process suggestions)](https://medium.com/@ard_adam/the-nature-of-computer-programming-7526789b3af1)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/Michael-O-Church)
 * [Why "Agile" and especially Scrum are Terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
