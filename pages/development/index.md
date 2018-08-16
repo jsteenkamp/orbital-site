@@ -1,5 +1,6 @@
 ## Development
 
+* [Bret Victor - The Future of Programming](http://worrydream.com/#!/dbx)
 * [Simplicity is Key](https://hvops.com/articles/simplicity-is-key/)
 * [Getting Real [PDF]](./static/getting.real.pdf)
 * [Reconsider](https://m.signalvnoise.com/reconsider-41adf356857f)
