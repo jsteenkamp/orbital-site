@@ -3,6 +3,7 @@
 * [Sebastian Markbage: Minimal API Surface Area ](https://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html)
 * [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [What the heck is the Event Loop anyway? [YouTube]](https://youtu.be/8aGhZQkoFbQ)
+* [How JavaScript Works (Series)](https://blog.sessionstack.com/tagged/tutorial)
 * [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 * [Composing Software (Series)](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
