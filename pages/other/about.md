@@ -5,7 +5,7 @@
 - GitHub: [jsteenkamp](https://github.com/jsteenkamp)
 - LinkedIn: [johansteenkamp](https://www.linkedin.com/in/johansteenkamp/)
 
-I get stuck in and show people how to plan, build, and ship products together.
+I roll up my sleeves, get stuck in, and show people how to plan, build, and ship products together.
 
 ## My approach to just about everything
 
@@ -18,9 +18,8 @@ I get stuck in and show people how to plan, build, and ship products together.
 
 - Architecture represents the significant design decisions that shape a system, where significant is measured by the cost of change - *Grady Booch*
 - Duplication is far cheaper than the wrong abstraction - *Sandi Metz*
+- Favor composition over inheritance
 - Don't do anything that takes longer than 2 weeks
 - Do the riskiest tasks first
 - Balance quality with pragmatism
-- Favor composition over inheritance
-- Make frequent releases
-
+- Release frequently
