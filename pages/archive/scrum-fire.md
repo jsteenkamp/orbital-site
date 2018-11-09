@@ -2,7 +2,7 @@
 
 Originally published September 17, 2014 by [Giles Bowkett](http://gilesbowkett.blogspot.com/) and since removed.
  
- [Original Article [PDF]](/static/giles.bowkett.why.scrum.should.basically.just.die.in.a.fire.pdf)
+ [Original Article [PDF]](/static/archive/giles.bowkett.why.scrum.should.basically.just.die.in.a.fire.pdf)
 
 *Conversations with Panda Strike CEO Dan Yoder inspired this blog post.*  
 
@@ -93,7 +93,7 @@ In other words, in its best-case scenario, Scrum's a dog-and-pony show. But that
 
 And one of the most interesting things about Scrum is that it tries to enhance the accountability of a field of work where both failure and success are obvious to the naked eye - yet I've never encountered any similarly elaborate system of rituals whose major purpose is to enhance the accountability of fields which have actual accountability problems.  
 
-![Welcome to Marketing](/static/dilbert-marketing.gif)
+![Welcome to Marketing](/static/archive/dilbert-marketing.gif)
 
 Although marketing is becoming a very data-driven field, and although this sea change began long before the Web existed at all - Dan Kennedy's been writing about data-driven marketing since at least the 1980s - it's still a fact that many marketers do totally unaccountable work that depends entirely on public perception, mood, and a variety of other factors that are inherently impossible to measure. The oldest joke in marketing: "only half my advertising works, but I don't know which half."  
 
