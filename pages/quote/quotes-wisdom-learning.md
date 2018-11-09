@@ -1,8 +1,22 @@
+The hacker culture and its successes pose by example some fundamental questions about human motivation, the organization of work, the future of professionalism, and the shape of the firm. - *Eric Raymond*
+
+Great products come from changing the focus. From productivity to impact. From predicatability to experimentation. From efficiency to decentralization. From product to problem. - *Mary Poppendieck*
+
 Do the simple thing first - *Instagram*
+
+A good strategy is a set of actions that is credible, coherent and focused on overcoming the biggest hurdle(s) in achieving a particular objective. - *Richard Rumelt*
+
+Working hard is great, but don’t confuse motion for progress. - *Julie Zuho (@joulee)*
 
 Understand and make clear the project goals, constraints, and assumptions.
 
+Because as soon as you make it about hours, their job becomes less about code and more about hours. - *Zach Holman*
+
 Do the riskiest tasks first, don't give yourself the illusion of progress by focusing on what's easiest first.
+
+If I stay for another year, what am I going to learn and what will be different? - *@kevingoldsmith*
+
+Today's office is a wasteland. It saps vitality, blocks talent, and frustrates accomplishment. It is the daily scene of unfulfilled intentions and failed effort. - *Robert Propst (Herman Miller)*
 
 More effective than defining specific goals is outlining measurable milestones to achieve them. Aim to deliver new value at each milestone.
 
@@ -22,7 +36,7 @@ Change the cost, change the behavior.
 
 Constraints are changes in the probability of particular actions, an incentive landscape.
 
-change the ncentive landscape by making the way you want people to do things the easy way to do things.
+Change the incentive landscape by making the way you want people to do things the easy way to do things.
 
 Architecture represents the significant design decisions that shape a system, where significant is measured by the cost of change. - *Grady Booch*
 
@@ -88,11 +102,21 @@ The essence of strategy is choosing what not to do - *Michael Porter*
 
 Taking ownership is the most effective way to get what you want - *Edmond Lau*
 
-Arbitrary deadlins destory predictability. Market driven deadlines with continuous delivery enable predictability.  - *@duarte_vasco #NoEstimates*
+Arbitrary deadlines destory predictability. Market driven deadlines with continuous delivery enable predictability.  - *@duarte_vasco #NoEstimates*
 
 Use exploratory coding and prototyping to understand the landscape, not flawed estimation based on assumptions.
 
 Software Uncertainty Principle: If you know what's in it, you don't know when it will ship. If you know when it will ship, you don't know what's in it.
 
 You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.  - *Mark Hedlund, Etsy*
+
+Development is not about a squence of sprints, we need to have time to think about what we are actually building - *@anatolyz*
+
+Done is a decision, not a definition.
+
+Development is not about a sequence of sprints. We need to have time to think about what we are atually building. - *@anatolyz*
+
+Agile is about having the right people. Scrum is what happens when the wrong people bring their process.
+
+Simplicity is a prerequisite for reliability - *Edsger Dijkstra*
 

@@ -13,7 +13,7 @@ const Box = sys({
 
 const H1 = sys({
   is: 'h1',
-  fontSize: [8, 10],
+  fontSize: [6, 7],
   mt: 0,
   mb: 3,
 }, props => ({
@@ -21,6 +21,8 @@ const H1 = sys({
     color: 'inherit',
     border: 'none',
     cursor: 'pointer',
+    mt: 0,
+    mb: 3,
   }
 }));
 
