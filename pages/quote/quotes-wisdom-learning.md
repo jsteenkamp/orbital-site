@@ -1,3 +1,7 @@
+The single biggest problem with communication is the illusion that it has taken place. - *George Bernard Shaw*
+
+An engineer starts with complexity and crafts certainty - *Richard Rumelt*
+
 The hacker culture and its successes pose by example some fundamental questions about human motivation, the organization of work, the future of professionalism, and the shape of the firm. - *Eric Raymond*
 
 Great products come from changing the focus. From productivity to impact. From predicatability to experimentation. From efficiency to decentralization. From product to problem. - *Mary Poppendieck*
@@ -32,7 +36,7 @@ To help users scale we want to make tasks effortless. To help the platform scale
 
 Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.
 
-Change the cost, change the behavior.
+Change the cost. Change the behavior.
 
 Constraints are changes in the probability of particular actions, an incentive landscape.
 
@@ -119,4 +123,8 @@ Development is not about a sequence of sprints. We need to have time to think ab
 Agile is about having the right people. Scrum is what happens when the wrong people bring their process.
 
 Simplicity is a prerequisite for reliability - *Edsger Dijkstra*
+
+When our new ideas fail it's usually because we are overconfident about how well our customers would understand and how much they would care - *GV Sprint*
+
+The key to staying relevant to your customers and defending/growing your business model does not come from throwing more features (solutions) at them, but rather continuously uncovering problems and addressing them — before your competitors do. - *Ash Maurya*
 
