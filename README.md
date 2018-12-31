@@ -1,4 +1,20 @@
-# Next Site
+# Orbital Static Site
+
+## Getting Started
+
+This project can be deployed with [Now V1](https://zeit.co/docs/v1/) or [Now V2](https://zeit.co/docs/v2/getting-started/introduction-to-now). The Now hosting configuration is set in `now.json`.
+
+I recommend using V2 as this is preferred option and uses serverless deployment.
+
+### Development
+
+`yarn dev` starts the local development server on `localhost:3000`
+
+### Deployment
+
+`now` will upload and built the application. You can then alias the provided deployment URL.
+
+## About
 
 [Gatsby](https://next.gatsbyjs.org/) is a static site generator while [Next.js](https://nextjs.org/) is for building [React](https://reactjs.org/) universal apps, apps with server-side rendering included.
 

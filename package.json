@@ -1,12 +1,13 @@
 {
   "name": "orbital-site",
   "version": "1.0.0",
-  "description": "Orbital web site",
+  "description": "Orbital website",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
     "start": "next start",
+    "now-build": "next build && next export -o dist",
     "deploy": "now out && now alias $(pbpaste) orbital.co.nz"
   },
   "keywords": [],
