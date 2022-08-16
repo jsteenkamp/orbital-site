@@ -30,8 +30,9 @@ const A = sys({
 const Header = () => (
   <Box>
     <div><H1><Link href="/"><a>Orbital</a></Link></H1></div>
-    <div><Link href="/other/about"><a>About</a></Link></div>
   </Box>
 );
+
+//     <div><Link href="/other/about"><a>About</a></Link></div>
 
 export default Header;
